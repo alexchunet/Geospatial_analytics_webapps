@@ -8,7 +8,12 @@ Set of Google Earth Engine webapps which allow to analyse different environmenta
 [VIIRS Nighttime lights](https://alexchunet.users.earthengine.app/view/ntlestimation)
 
 [S5P Air pollution](https://alexchunet.users.earthengine.app/view/pollution)
+
 [Urban Heat Islands](https://alexchunet.users.earthengine.app/view/uhi)
+
 [Chlorophyll-a concentration](https://alexchunet.users.earthengine.app/view/water-quality)
+
 [Worldpop](https://alexchunet.users.earthengine.app/view/worldpopdraw)
+
 [Multispectral interpretation](https://alexchunet.users.earthengine.app/view/multispectralsenegal)
+
