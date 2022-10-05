@@ -1,11 +1,11 @@
 # Geospatial analytics webapps
 Set of Google Earth Engine webapps which allow to analyse different environmental dimensions for a custom AOI. This is used by the French Development Agency (AFD) to provide information of the areas of intervention of its operations.
 
-[GHSL Urban built up expansion](https://alexchunet.users.earthengine.app/view/ghsldraw)
-
-[Global NDVI](https://alexchunet.users.earthengine.app/view/ndvidraw)
+[Sentinel-based NDVI](https://alexchunet.users.earthengine.app/view/ndvidraw)
 
 [VIIRS Nighttime lights](https://alexchunet.users.earthengine.app/view/ntlestimation)
+
+[GHSL Urban built up expansion](https://alexchunet.users.earthengine.app/view/ghsldraw)
 
 [S5P Air pollution](https://alexchunet.users.earthengine.app/view/pollution)
 
